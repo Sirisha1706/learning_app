@@ -17,50 +17,56 @@
         "title": "JSX",
         "description": "Learning JSX",
         "details": "JSX is a syntax extension to JavaScript. It is similar to a template language, but it has full power of JavaScript. JSX gets compiled to React.createElement() calls which return plain JavaScript objects called 'React elements'. These objects are then used to build the DOM.",
-        "video": "https://www.youtube.com/embed/7HSd1sk07uU?list=PLb0IAmt7-GS3fZ46IGFirdqKTIxlws7e0"
+        "video": "https://www.youtube.com/embed/7fPXI_MnBOY?si=Dbu6ah73wpZzdOLu"
       },
       {
         "chapter": 3,
         "title": "Components",
         "description": "What are Components?",
         "details": "Components let you split the UI into independent, reusable pieces, and think about each piece in isolation. Conceptually, components are like JavaScript functions. They accept arbitrary inputs (called 'props') and return React elements describing what should appear on the screen.",
-        "video": "https://www.youtube.com/embed/MGuKhcnrqGA?list=PLb0IAmt7-GS0M8Q95RIc2lOM6nc77q1IY"
+        "video": "https://www.youtube.com/embed/Y2hgEGPzTZY?si=a6PZthMaOusOJINt"
       },
       {
         "chapter": 4,
         "title": "Props",
         "description": "Passing the data through Props",
-        "details": "Props are a way of passing data from parent to child. They are immutable and are passed from parent to child via attributes."
+        "details": "Props are a way of passing data from parent to child. They are immutable and are passed from parent to child via attributes.",
+        "video": "https://www.youtube.com/embed/uvEAvxWvwOs?si=i2PLyisKVZxPNY2w"
       },
       {
         "chapter": 5,
         "title": "State",
         "description": "Single Source of Truth - State",
-        "details": "State is similar to props, but it is private and fully controlled by the component."
+        "details": "State is similar to props, but it is private and fully controlled by the component.",
+        "video": "https://www.youtube.com/embed/4ORZ1GmjaMc?si=ieeKrqAxmLXc65M2"
       },
       {
         "chapter": 6,
         "title": "Lifecycle",
         "description": "Methods involved in Component Lifecycle",
-        "details": "Each component has several “lifecycle methods” that you can override to run code at particular times in the process. Methods prefixed with will are called right before something happens, and methods prefixed with did are called right after something happens."
+        "details": "Each component has several “lifecycle methods” that you can override to run code at particular times in the process. Methods prefixed with will are called right before something happens, and methods prefixed with did are called right after something happens.",
+        "video": "https://www.youtube.com/embed/qnN_FuFNq2g?si=dA5i9pWSjEAmbW1h"
       },
       {
         "chapter": 7,
         "title": "Handling Events",
         "description": "Handling Events",
-        "details": "Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:"
+        "details": "Handling events with React elements is very similar to handling events on DOM elements. There are some syntax differences:",
+        "video": "https://www.youtube.com/embed/Znqv84xi8Vs?si=v3osI_2RdyCRw-a5"
       },
       {
         "chapter": 8,
         "title": "Conditional Rendering",
         "description": "Conditional Rendering",
-        "details": "In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application."
+        "details": "In React, you can create distinct components that encapsulate behavior you need. Then, you can render only some of them, depending on the state of your application.",
+        "video": "https://www.youtube.com/embed/7o5FPaVA9m0?si=kakI9TXFLiGrzo_k"
       },
       {
         "chapter": 9,
         "title": "Lists and Keys",
         "description": "Lists and Keys",
-        "details": "You can build collections of elements and include them in JSX using curly braces {}."
+        "details": "You can build collections of elements and include them in JSX using curly braces {}.",
+        "video": "https://www.youtube.com/embed/0sasRxl35_8?si=4g43VL_3URyCpfXv"
       }
     ]
   },
@@ -74,7 +80,8 @@
         "chapter": 1,
         "title": "Introduction",
         "description": "Introduction to Node",
-        "details": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser."
+        "details": "Node.js is an open-source, cross-platform, back-end JavaScript runtime environment that runs on the V8 engine and executes JavaScript code outside a web browser.",
+        "video": "https://www.youtube.com/embed/8u1o-OmOeGQ?si=2yo7GJiQDqJwA611"
       },
       {
         "chapter": 2,

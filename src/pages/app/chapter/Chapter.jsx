@@ -16,7 +16,7 @@ function Chapter() {
       <br />
       <div className={styles.videos}>
         <iframe
-          width="800"
+          width="100%"
           height="560"
           src={chapter.video}
           frameborder='1'
