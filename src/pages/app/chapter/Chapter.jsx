@@ -17,7 +17,7 @@ function Chapter() {
       <div className={styles.videos}>
         <iframe
           width="100%"
-          height="560"
+          height="500px"
           src={chapter.video}
           frameborder='1'
           title="YouTube video player"
